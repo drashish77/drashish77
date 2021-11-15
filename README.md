@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **drashish77/drashish77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -39,4 +39,4 @@ Also used CSS preprocessor like SASS
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I used to be a doctor before being a coder.
--->
+
