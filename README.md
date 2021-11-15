@@ -37,6 +37,6 @@ Also used CSS preprocessor like SASS
 [![github](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/drashish77/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/dr_coderr)
 
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him 
 - ⚡ Fun fact: I used to be a doctor before being a coder.
 -->
