@@ -1,14 +1,10 @@
-### Hi there 👋
-
-
-**drashish77/drashish77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋, Ashish (alex__coder) is here.
 
 ## 🚀 About Me
 I'm a front end developer, I am coding from last 3 years, 
 coding in reactjs from last one year.
 
+### my Stack
 I have created many projects using react js, Contex Api,
  Redux, Redux saga, tailwind css, and bootstrap css.
 
