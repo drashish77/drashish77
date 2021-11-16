@@ -4,7 +4,7 @@
 I'm a front end developer, I am coding from last 3 years, 
 coding in reactjs from last one year.
 
-### my Stack
+### My Stack
 I have created many projects using react js, Contex Api,
  Redux, Redux saga, tailwind css, and bootstrap css.
 
